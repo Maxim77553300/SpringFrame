@@ -56,6 +56,7 @@ public class TestSpring {
         System.out.println(computer);
 
         context.close();
+        System.out.println();
 
     }
 }
